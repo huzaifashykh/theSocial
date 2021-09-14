@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701464551255",
+    "project_id": "thesocial-a1ad9",
+    "storage_bucket": "thesocial-a1ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701464551255:android:71647df37490777e12e812",
+        "android_client_info": {
+          "package_name": "com.squashysolution.the_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701464551255-1q3ekveqs759mgf7gnvva4p8osq423g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBva3_1RZBeigFik_2gYy1Qua-s0mMkQoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701464551255-1q3ekveqs759mgf7gnvva4p8osq423g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
